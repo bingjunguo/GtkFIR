@@ -1,0 +1,6 @@
+{
+  "name": "Gtkfir",
+  "tagline": "这是一个人机对战的五子棋项目",
+  "body": "GtkFIR - 人机对战五子棋\r\n=====================\r\n\r\n使用博弈树算法实现的人机对战五子棋\r\n\r\n![](fir.png)\r\n\r\n## 项目依赖项\r\n\r\nCMake gtkmm-3.0\r\n\r\nubuntu下安装方式\r\n\r\n```\r\n    sudo apt-get install cmake libgtkmm-3.0-dev\r\n```\r\n\r\n## 构建方式\r\n\r\n在项目根目录下建立build文件夹，在该文件夹下执行cmake指令：\r\n\r\n```\r\n    cmake ..\r\n    make\r\n```\r\n\r\n并将res文件夹复制到build目录下即可运行。\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
